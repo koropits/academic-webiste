@@ -51,7 +51,7 @@ social:
   link: https://twitter.com/chenxi_econ
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://ssrn.com/author=4598233
 - icon: github
   icon_pack: fab
   link: https://github.com/koropits

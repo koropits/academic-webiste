@@ -54,7 +54,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'http://ssrn.com/abstract=4052296'
 url_video: ''
 
 # Featured image
