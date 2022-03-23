@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'content\workingpaper\数字经济发展与农民工城市留居意愿\数字经济发展与农民工城市留居意愿.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
