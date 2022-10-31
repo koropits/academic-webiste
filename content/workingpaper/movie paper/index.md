@@ -1,6 +1,5 @@
 ---
-title: "Weather Variations, Climate Change, and Demand for in-theater
-Movie Recreations: Evidence from High-Frequency Movie-Viewing Data in China"
+title: "Weather, Climate Change, and Movie Recreation Demand in China"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
