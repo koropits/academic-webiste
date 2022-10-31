@@ -14,7 +14,6 @@ subtitle:
 content:
   # Contact details (edit or remove options as required)
   email: xic20@mails.tsinghua.edu.cn
-  phone: +86 (188-1315-9079)
   address:
     street: Shuangqing Road 30, Haidian District
     city: Beijing
