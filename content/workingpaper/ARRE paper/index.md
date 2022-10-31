@@ -50,7 +50,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content\workingpaper\ARRE paper\temperature and labor producitvity.pdf'
+url_pdf: 'content\workingpaper\ARRE paper\ARRE paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
