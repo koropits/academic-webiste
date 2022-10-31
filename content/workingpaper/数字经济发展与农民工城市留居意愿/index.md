@@ -5,6 +5,7 @@ title: "Digital Economy Development and Rural Migrant Workers’Willingness to S
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Jing Cao
 - Chen Xi
 - Chengming Ji
 
@@ -12,10 +13,11 @@ authors:
 
 # Author notes (optional)
 author_notes:
+-
 - "Corresponding Author"
 -
 
-date: "2022-02-28T00:00:00Z"
+date: "2022-10-01T00:00:00Z"
 doi: ""
 
 
@@ -27,8 +29,8 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: (in Chinese) submitted
-publication_short: (in Chinese) submitted
+publication: 
+publication_short: China Economic Studies(中国经济问题) R&R
 
 abstract: 
 
