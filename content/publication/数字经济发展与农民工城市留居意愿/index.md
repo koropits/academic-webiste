@@ -29,7 +29,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Accepted by *China Economic Studies(中国经济问题)*
-publication_short: In *China Economic Studies(图书馆论坛)*
+publication_short: Accepted by *China Economic Studies(中国经济问题)*
 
 abstract: Matching the 2012-2018 CMDS data with the Peking University Digital Finance Index to form a cross-sectional data, this paper analyzes the impact of digital economy development in inflow cities on migrant workers' long-term willingness to settle in cities at the county level. The instrumental variable estimation results show that cities’ digital economy development positively affects migrants’ willingness to settle. For one standard deviation increase in the digital economy index, migrants’ willingness to settle increased by 10.3%. We further find that the effect exhibits human capital heterogeneity. The effect of digital economy development on migrant workers with high human capital is 1.3% higher than that on low human capital migrants. Mechanism analysis shows that human capital heterogeneity is mainly explained by the difference of payment facilitation in two migrant groups. Although digital economy development leads the structure of urban labor demand biases toward high human capital migrant workers, faster productivity improvement of low human capital migrant workers through social learning narrows down the wage gap. This paper provides a new perspective for discussing the well-being of migrant workers and the construction of new-type urbanization in the digital economy era.
 
