@@ -17,7 +17,7 @@ author_notes:
 -
 -
 - 
-- "Equal Contribution"
+- "Corresponding Author"
 -
 
 date: "2023-03-25T00:00:00Z"
