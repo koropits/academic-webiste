@@ -12,17 +12,15 @@ authors:
 - Peng Zhang
 
 
-
-
 # Author notes (optional)
 author_notes:
-- 
-- 
 -
-- equal contribution
+-
+- 
+- "Equal Contribution"
 -
 
-date: "2023-3-25T00:00:00Z"
+date: "2023-03-25T00:00:00Z"
 doi: ""
 
 
@@ -31,13 +29,13 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: conditionally accepted by *Annual Review of Resource Economics*
-publication_short:  conditionally accepted by *Annual Review of Resource Economics*
+publication_short: Annual Review of Resource Economics
 
-abstract: This article reviews recent economic findings on the causal effects of temperature on labor productivity. The impact of temperature shocks on micro-level worker and plant productivity is a core channel in explaining temperature effects on aggregate economic output at the macro-level. Besides physiological effects revealed in scientific studies, economic studies also find negative effects of temperature on mental productivity, including cognition performance, learning, and consequential decisions. The effectiveness of adaptation is inconsistent in macro and micro findings. Adaptation is found to be almost futile at the regional scale, but indeed alleviates temperature damage in various micro-level contexts. We highlight the distributional effects of temperature, and early-life exposure to extreme temperatures causes long-standing effects in adulthood. We propose some limitations of existing studies and provide several key points fo future work.
+abstract: This article reviews recent economic studies on the causal effects of temperature on labor productivity. The negative effects of extreme temperatures are widespread, and the magnitudes of the impact differ across social and economic factors. In addition to physical outputs, extreme temperatures also impair mental productivity, including cognition and learning. In-utero exposure  to extreme temperatures has profound effects on human development. While the literature has detected various adaptation strategies, the conclusions are mixed. We discuss some limitations of existing studies and propose several directions for future research.
 
 
 tags: []
@@ -51,7 +49,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'content\publication\ARRE paper\The Effects of Temperature on Labor Productivity_LQTXZ.pdf'
-url_appendix: ''
+url_link: 'www.baidu.com'
 url_dataset: ''
 url_poster: ''
 url_project: ''
