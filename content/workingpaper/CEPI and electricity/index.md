@@ -6,7 +6,7 @@ title: "Inspectors Come and Go: Strategic Responses to Central Environmental Pro
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Jing Cao
-- Mingzhecao Si
+- Caomingzhe Si
 - Chen Xi
 
 
