@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content\workingpaper\CEPI and electricity\CEPI paper.pdf'
+url_pdf: 'F:\Desktop\academic-webiste\content\workingpaper\inspection paper\inspection paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
