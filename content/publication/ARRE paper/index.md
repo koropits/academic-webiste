@@ -33,7 +33,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: conditionally accepted by *Annual Review of Resource Economics*
-publication_short: Annual Review of Resource Economics
+publication_short: conditionally accepted by *Annual Review of Resource Economics*
 
 abstract: This article reviews recent economic studies on the causal effects of temperature on labor productivity. The negative effects of extreme temperatures are widespread, and the magnitudes of the impact differ across social and economic factors. In addition to physical outputs, extreme temperatures also impair mental productivity, including cognition and learning. In-utero exposure  to extreme temperatures has profound effects on human development. While the literature has detected various adaptation strategies, the conclusions are mixed. We discuss some limitations of existing studies and propose several directions for future research.
 
@@ -48,8 +48,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content\publication\ARRE paper\The Effects of Temperature on Labor Productivity_LQTXZ.pdf'
-url_link: 'www.baidu.com'
+url_pdf: 'F:\Desktop\academic-webiste\content\publication\ARRE paper\The Effects of Temperature on Labor Productivity_LQTXZ.pdf'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
