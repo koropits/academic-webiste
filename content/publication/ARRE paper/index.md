@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'F:\Desktop\academic-webiste\content\publication\ARRE paper\The Effects of Temperature on Labor Productivity_LQTXZ.pdf'
+url_pdf: 'content\publication\ARRE paper\temperature and labor.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
