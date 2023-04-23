@@ -45,8 +45,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'F:\Desktop\academic-webiste\content\workingpaper\ESG and mispricing paper\ESG_and_mispricing.pdf'
-url_code: 'www.baidu.com'
+url_pdf: 'https://www.dropbox.com/s/8dc84nuwtcplaed/ESG%20Investment%20and%20Stock%20Mispricing.pdf?dl=0'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
