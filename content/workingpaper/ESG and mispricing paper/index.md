@@ -1,6 +1,5 @@
 ---
-title: "ESG Investment and Stock Mispricing: The Practice of A-Share Listed 
-Companies in China"
+title: "ESG Investment and Stock Mispricing: The Practice of A-Share Listed Companies in China"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -46,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content\workingpaper\ESG paper\esg_and_mispricing.pdf'
+url_pdf: 'F:\Desktop\academic-webiste\content\workingpaper\ESG and mispricing paper\ESG_and_mispricing.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
