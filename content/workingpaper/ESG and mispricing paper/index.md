@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.dropbox.com/s/8dc84nuwtcplaed/ESG%20Investment%20and%20Stock%20Mispricing.pdf?dl=0'
+url_pdf: 'https://cloud.tsinghua.edu.cn/f/d2e5186f51db4d09887d/'
 url_code: ''
 url_dataset: ''
 url_poster: ''
