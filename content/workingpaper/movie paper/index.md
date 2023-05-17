@@ -31,8 +31,8 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: under review at *Energy Economics*
-publication_short: under review at *Energy Economics*
+publication: Revise & Resubmit at *Energy Economics*
+publication_short: Revise & Resubmit at *Energy Economics*
 
 abstract: Accurately assessing the impacts of climate change on each economic sector is essential for designing effective climate policies. Although the impacts of climate change on the agricultural and industrial sectors have been abundantly explored, studies focusing on the service sector are still sparse, especially for emerging economies. Leveraging high-resolution movie-viewing records across 49 cities in China between 2015-2017, this paper examines how in-theater movie recreations are affected by ambient weather variations, mainly temperature and precipitation. We find that, compared with a broader range of moderate temperatures, extremely high temperatures (daily average temperature ≥30℃) led to a 3.27%, 5.94%, and 0.86% reduction in audiences, box office revenues, and attendance rate, respectively. Effects of extremely low temperatures (daily average temperature <-1℃) and precipitations are slightly small. The negative impacts of extreme temperatures are most pronounced in the 3-7 days after a movie premiered, with the performance of movies screened in high-tier cities and on Fridays being more likely to suffer, while demand for high-quality movies suffers less under temperature shocks. Our findings suggest that in 2017, 49 cities across China lost 4.93 (0.13) million audiences and 292.74 (7.24) million Chinese Yuan box office revenues due to extreme temperatures (precipitations). In the medium-term future (years 2041-2060), moviegoing losses due to climate change are predicted to increase by 20%-60% from the current stage.
 
