@@ -20,8 +20,8 @@ author_notes:
 - "Corresponding Author"
 -
 
-date: "2023-03-25T00:00:00Z"
-doi: ""
+date: "2023-06-08T00:00:00Z"
+doi: "https://doi.org/10.1146/annurev-resource-101222-125630"
 
 
 
@@ -32,10 +32,10 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Accepted by *Annual Review of Resource Economics*
-publication_short: Accepted by *Annual Review of Resource Economics*
+publication:  In *Annual Review of Resource Economics*
+publication_short: In *Annual Review of Resource Economics*
 
-abstract: This article reviews recent economic studies on the causal effects of temperature on labor productivity. The negative effects of extreme temperatures are widespread, and the magnitudes of the impact differ across social and economic factors. In addition to physical outputs, extreme temperatures also impair mental productivity, including cognition and learning. In-utero exposure  to extreme temperatures has profound effects on human development. While the literature has detected various adaptation strategies, the conclusions are mixed. We discuss some limitations of existing studies and propose several directions for future research.
+abstract: This article reviews recent economic studies on the causal effects of temperature on labor productivity. The negative effects of extreme temperatures are widespread, and the magnitudes of the impact differ across social and economic factors. In addition to physical outputs, extreme temperatures also impair mental productivity, including cognition and learning. In utero exposure to extreme temperatures has profound effects on human development. Although the literature has detected various adaptation strategies, the conclusions are mixed. We discuss some limitations of existing studies and propose several directions for future research.
 
 
 tags: []

@@ -8,6 +8,7 @@ authors:
 - Jing Cao
 - Chen Xi
 - Yingyu Zhang
+- Yi Lu
 
 
 
@@ -15,6 +16,7 @@ authors:
 author_notes:
 -
 - 
+-
 -
 
 date: "2023-04-23T00:00:00Z"
@@ -45,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://cloud.tsinghua.edu.cn/f/d2e5186f51db4d09887d/'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

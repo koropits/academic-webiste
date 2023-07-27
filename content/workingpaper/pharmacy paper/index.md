@@ -1,5 +1,6 @@
 ---
-title: "Pharmacy Richness and Anti-smog-mask Wearing: Evidence from a Severely Polluted City in China"
+title: "Pharmacy Density and Inequalities in Defense against Air Pollution:
+Evidence from a Severely Polluted City in China"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -7,7 +8,6 @@ title: "Pharmacy Richness and Anti-smog-mask Wearing: Evidence from a Severely P
 authors:
 - Chen Xi
 - Yazhen Gong
-- Jing Cao
 - Ke Chen
 
 
@@ -16,7 +16,6 @@ authors:
 author_notes:
 -
 - "Corresponding Author"
--
 -
 
 date: "2022-01-01T00:00:00Z"
@@ -34,7 +33,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: Exposure to fine particulate matter is associated with various health damages, and the negative effects are stronger in the elder compared to the younger, but limited literature has focused on measures that help to mitigate the air pollution exposure inequality. In this study, we investigate the causal effect of pharmacy richness around communities on the anti-smog-mask wearing of age-stratified residents in Shenyang City, a severely polluted city in China, in 2018. By constructing instrumental variables using administrative approval data for new pharmacy openings during 2014-16, 2SLS estimations indicate that higher pharmacy density promotes residents to take defensive behavior on heavily polluted days, but the effect only appears in the elder over 65. The theoretical model suggests that mechanisms can be decomposed as search cost effect and information effect, both supported by empirical findings.
+abstract: This study uses survey data from 2,111 households in Shenyang City, a severely polluted city in China, to examine the role of community pharmacy density in narrowing the inequality of older-younger people’s defenses against air pollution. To address endogeneity, we exploit the administrative approval data for new pharmacy openings during 2014-2016 as the instrumental variable for the stock of pharmacies in 2018. The 2SLS estimates indicate that richer pharmacy density increases the probability that residents wear the anti-smog mask on heavily polluted days, but the effect only appears in the elder over 65. The theoretical model reveals that the result can be led by the search cost effect and information effect, and both channels are supported by empirical findings.
 
 
 tags: []
