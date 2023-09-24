@@ -11,12 +11,11 @@ authors:
 - Pan He
 
 
-
 # Author notes (optional)
 author_notes:
 -
 - "Corresponding Author"
--
+- 
 -
 
 date: "2023-09-25T00:00:00Z"
@@ -31,7 +30,7 @@ doi: "https://www.sciencedirect.com/science/article/pii/S0140988323005364"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Energy Economics*
+publication:  In *Energy Economics*
 publication_short: In *Energy Economics*
 
 abstract: Understanding the impacts of weather shocks on various economic sectors is crucial for designing effective climate policies. While previous studies have focused mainly on the agricultural and industrial sectors, there has been limited exploration of weather effects on the service sector, particularly in emerging economies. This study addresses this research gap by analyzing high-frequency movie-viewing records of 49 major cities in China between 2015 and 2017 to examine the effects of weather shocks on in-theater movie recreation. The findings reveal that both extreme temperatures and pouring rains significantly reduce movie demand. We also investigate the relationship between weather and movie supply at both extensive and intensive margins, and confirm the weather-movie demand results are not driven by supply-side dynamics. The back-of-the-envelope calculation indicates that extreme temperatures led to a loss of 5.14 million moviegoers and a 311.32 million Chinese Yuan loss in box office revenue for the Chinese film market in 2017, while losses due to pouring rains amounted to 1.28 million audiences and 69.16 million Chinese Yuan in revenues. This paper highlights the significant damage caused by current extreme weather conditions to China's film market and emphasizes that such damage is expected to worsen in the future with the intensification of climate change.
@@ -47,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content\publication\movie paper\movie paper.pdf'
+url_pdf: 'content\publication\movie paper\movie_paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -56,9 +55,8 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-- name: SSRN
-url: 'http://ssrn.com/abstract=4052296'
-
+name: SSRN
+url_SSRN: 'http://ssrn.com/abstract=4052296'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
