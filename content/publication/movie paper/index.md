@@ -16,11 +16,10 @@ author_notes:
 -
 - "Corresponding Author"
 - 
--
+- 
 
-date: "2023-09-25T00:00:00Z"
-doi: "https://www.sciencedirect.com/science/article/pii/S0140988323005364"
-
+date: "2023-09-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.eneco.2023.107038"
 
 
 # Publication type.
@@ -46,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content\publication\movie paper\movie_paper.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -55,8 +54,6 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-name: SSRN
-url_SSRN: 'http://ssrn.com/abstract=4052296'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
