@@ -74,5 +74,6 @@ I am now a Ph.D. candidate in economics at Tsinghua SEM, expected to graduate in
 
 My research fields focus on environmental and development issues in China, using detailed micro-data to conduct econometric analysis. My recent research concentrates on understanding the socio-economic impacts of climate change and environmental pollution in China, also the short-term and long-term effects of environmental regulation. 
 
+I am on the job market now.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Chen Xi_CV.pdf" "newtab" >}} English CV{{< /staticref >}} or  {{< staticref "uploads/息晨_简历.pdf" "newtab" >}} 中文简历{{< /staticref >}}.
