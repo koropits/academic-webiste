@@ -19,7 +19,7 @@ author_notes:
 - 
 
 date: "2023-09-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.eneco.2023.107038"
+doi: "10.1016/j.eneco.2023.107038"
 
 
 # Publication type.
@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'content\publication\movie paper\movie paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
